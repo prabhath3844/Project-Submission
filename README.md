@@ -32,4 +32,4 @@ If you encounter any issues or have questions about how to use or modify this co
 
 ## License
 
-This soldity contract project is licensed under the MIT Licence check the file for details.
+This soldity contract project is licensed under the MIT Licence check the [file](MyToken.sol) for details.
